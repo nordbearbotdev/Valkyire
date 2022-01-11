@@ -4,24 +4,24 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nordbearbotdev/Valkyire/main/img/logo.png" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/nordbearbotdev/Valkyire/main/img/" width="200" height="200">
 </p>
 
-# :computer: Janela Principal
+# :computer: Главное окно
 <p align="center">
   <img src="https://raw.githubusercontent.com/tanjilk/Valkyire/main/img/imgshow.png">
 </p>
 
-# 🌙 Instalação
+# 🌙 Установка
 
 
 <h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
 
-  - Instala Python 3.8 [aqui](https://www.python.org/downloads/release/python-38)
-  - Abre o installer e clica em: `add python to PATH`
-  - Faz download do Valkyire <a href="https://github.com/nordbearbotdev/Valkyire/archive/refs/heads/main.zip" target="blank">aqui</a>
-  - Abre o cmd ou o PowerShell no diretório Valkyire
-  - Execute este comando: `pip install -r requirements.txt`  
+  - Установите Python 3.8 [aqui](https://www.python.org/downloads/release/python-38)
+  - Откроется установщик и нажмите на кнопку: `add python to PATH`
+  - Скачайте архив Valkyire <a href="https://github.com/nordbearbotdev/Valkyire/archive/refs/heads/main.zip" target="blank">aqui</a>
+  - Откройте cmd или PowerShell с Valkyire
+  - Введите команду: `pip install -r requirements.txt`  
 
 
  
@@ -46,15 +46,15 @@ cd Valkyire/
 pip3 install -r requirements.txt
 ```
 
-## ❓ Como Usar
-O comando básico para poder executar o Valkyire é o seguinte.  
+## ❓ Как использовать?
+Основная команда чтоб использовать.  
 
 ```
 python3 Valkyire.py --time XXX --threads XXX --target [URL] --method HTTP
 ```
 
-Exemplo:  
+Пример: 
 
 ```
-python3 Valkyire.py --time 5000 --threads 550 --target https://www.publico.pt/ --method HTTP
+python3 Valkyire.py --time 5000 --threads 550 --target https://www.google.com/ --method HTTP
 ```
