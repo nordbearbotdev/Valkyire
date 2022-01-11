@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/tanjilk/Valkyire/main/img/imgshow.png">
 </p>
 
-# 🌙 Установка
+# 📥 Установка
 
 
 <h2>Windows</h2> <img src="https://cdn.iconscout.com/icon/free/png-256/windows-221-1175066.png" width="50" height="50">  
