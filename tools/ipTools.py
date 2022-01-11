@@ -57,7 +57,6 @@ def __GetEmailMessage():
     body = input(f"{Fore.BLUE}[?] {Fore.MAGENTA}Введите ваше сообщение (leave blank for random value): ")
     return [server, username, subject, body]
 
-"
 
 
 def GetTargetAddress(target, method):
